@@ -13,8 +13,8 @@ jobs:
       contents: write
 
     steps:
-      - name: ⬇️ Checkout code
-        uses: actions/checkout@v4
+      - name: ⬇️ 
+        uses: actions/64230227
         with:
           fetch-depth: 0
 
